@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi! 👋
+I'm student developer.  
+I just like developing programs!
 
-<!--
-**Bukgeuk/Bukgeuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills 📚
+* C/C++
+* JavaScript
+* Node.js
+* HTML/CSS
+* Python
+* Java
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact 📞
+**Discord** : Bukgeuk_#4066  
+**Email** : bukgeuk1234@gmail.com
