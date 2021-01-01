@@ -7,7 +7,7 @@ I just like developing programs!
 * Node.js
 * HTML/CSS/JavaScript
 * Python
-* Java
+* Java/Kotlin
 
 ### Contact 📞
 **Discord** : Bukgeuk_#4066  
