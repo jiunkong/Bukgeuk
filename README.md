@@ -10,5 +10,5 @@ I just like developing programs!
 * Java/Kotlin
 
 ### Contact 📞
-**Discord** : Bukgeuk_#4066  
+**Discord** : Bukgeuk_#1234  
 **Email** : contact@bukgeuk.dev
