@@ -5,7 +5,8 @@ I just like developing programs!
 ### Skills 📚
 * C/C++
 * Node.js
-* HTML/CSS/JavaScript
+* HTML/CSS
+* JavaScript/TypeScript
 * Python
 * Java/Kotlin
 
