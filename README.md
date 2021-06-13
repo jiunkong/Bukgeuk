@@ -1,14 +1,20 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&text=Bukgeuk&animation=fadeIn&fontAlignY=30&desc=A%20student%20who%20likes%20programming&descAlignY=53)
+
 # Hi! 👋
 I'm a student developer.  
 I just like developing programs!
 
 ## Skills 📚
-* C/C++
-* Node.js
-* HTML/CSS
-* JavaScript/TypeScript
-* Python
-* Java/Kotlin
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/Node.js-3BB143?style=flat-square&logo=Node.js&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/HTML-FF4500?style=flat-square&logo=html5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Typescript-1E90FF?style=flat-square&logo=Typescript&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kotlin-FF8C00?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 
 ## My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bukgeuk&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
