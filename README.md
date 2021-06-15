@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&text=Bukgeuk&animation=fadeIn&fontAlignY=30&desc=A%20student%20who%20likes%20programming&descAlignY=53)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&text=Bukgeuk&animation=fadeIn&fontAlignY=30&desc=Welcome%20to%20my%20Github%20profile!&descAlignY=53)
 
 # Hi! 👋
 I'm a student developer.  
