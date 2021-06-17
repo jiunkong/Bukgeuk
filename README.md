@@ -2,7 +2,8 @@
 
 # Hi! 👋
 I'm a student developer.  
-I just like developing programs!
+I just like developing programs!  
+My favorite language is C++
 
 ## Skills 📚
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
