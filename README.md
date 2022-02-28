@@ -2,8 +2,7 @@
 
 # Hi! 👋
 I'm a student developer.  
-I just like developing programs!  
-My favorite language is C++
+If you want to collaboration with me, contact me anytime!
 
 ## Skills 📚
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
@@ -22,6 +21,7 @@ My favorite language is C++
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bukgeuk&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact 📞
+**Personal Website** : https://bukgeuk.dev  
 **Blog** : https://blog.bukgeuk.dev/  
 **Email** : contact@bukgeuk.dev  
   
