@@ -5,20 +5,26 @@ I'm a student developer.
 If you want to collaboration with me, contact me anytime!
 
 ## Skills 📚
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>  
-<img src="https://img.shields.io/badge/Node.js-3BB143?style=flat-square&logo=Node.js&logoColor=white"/></a>  
+* Front-end: 
 <img src="https://img.shields.io/badge/HTML-FF4500?style=flat-square&logo=html5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Typescript-1E90FF?style=flat-square&logo=Typescript&logoColor=white"/></a>  
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/Typescript-1E90FF?style=flat-square&logo=Typescript&logoColor=white"/></a>
+<img scr="https://img.shields.io/badge/React-5ED3F3?style=flat-square&logo=React&logoColor=white"/></a>
+* Back-end: 
+<img src="https://img.shields.io/badge/Node.js-3BB143?style=flat-square&logo=Node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
+* Other Languages: 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kotlin-FF8C00?style=flat-square&logo=Kotlin&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/Kotlin-FF8C00?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ## My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bukgeuk&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bukgeuk&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+![snake gif](https://github.com/Bukgeuk/Bukgeuk/blob/output/github-contribution-grid-snake.svg)
 
 ## Contact 📞
 [![Discord Presence](https://lanyard.cnrad.dev/api/390637401195675648?idleMessage=I&apos;m%20just%20chillin)](https://discord.com/users/390637401195675648)  
