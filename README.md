@@ -23,7 +23,7 @@ If you want to collaboration with me, contact me anytime!
 
 ## My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bukgeuk&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bukgeuk&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bukgeuk&layout=compact&theme=vue-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![snake gif](https://github.com/Bukgeuk/Bukgeuk/blob/output/github-contribution-grid-snake.svg)
 
 ## Contact 📞
